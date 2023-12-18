@@ -1,0 +1,47 @@
+body{
+
+    background: #0C0C22;
+}
+
+h1{
+    text-align: center;
+    padding: 100px;
+    font-family: Futura-Black;
+    font-size: 1000%;
+    color: white;
+}
+
+#LOGO-INICIO{
+    max-width: 100%;
+    height: auto;
+    max-height: 150px;
+}
+a{
+    text-align: center;
+    padding: 100px;
+    font-family: Futura-Black;
+    font-size: 1000%;
+    color: white;
+}
+P{
+    text-align: center;
+    padding: 100px;
+    font-family: Futura-Black;
+    font-size:500%;
+    color: white;
+    background-color: #0a58ca;
+    background-size: contain;
+
+}
+
+.carousel-control-prev,
+.carousel-control-next{
+    top: 50%;
+    transform: translateY(-50%);
+    height: auto;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    width: 30px;
+    height: 30px;
+}

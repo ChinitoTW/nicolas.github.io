@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    padding: 25px;
+    font-family: Futura-Black;
+    font-size: 500%;
+    color: white;
+    background-color: #fd7e14;
+    background-size: contain;
+}
+
+.parrafo-servicios{
+        text-align: center;
+        padding: 100px;
+        font-family: Calibri;
+        font-size: 150%;
+        color: white;
+        background-color: #0C0C22;
+        background-size: contain;
+}
+
+a{
+    text-align: center;
+    padding: 100px;
+    font-family: Futura-Black;
+    font-size: 1000%;
+    color: white;
+}

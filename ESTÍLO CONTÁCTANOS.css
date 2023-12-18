@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    padding: 25px;
+    font-family: Futura-Black;
+    font-size: 500%;
+    color: white;
+    background-color: #b02a37;
+    background-size: contain;
+}
+
+#AVISO{
+    color: red;
+    font-size: 200%;
+}
+
+a{
+    text-align: center;
+    color: white;
+    font-family: Futura-Black;
+
+}
+
+.redes.sociales.enlaces{
+   color: blue;
+}
