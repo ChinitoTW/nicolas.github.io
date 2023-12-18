@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05e45d99-8a24-460c-a1b6-5a379d0f131c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2YQGoiudhYv4a5sDZW7yc6Xslqq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/UNIVERSIDAD UNIR V2/DISEÑO Y TECNOLOGÍA WEB CLASE/DISEÑO Y TECNOLOGÍA WEB ACTIVIDAD 1&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\PROGRAMAS\\WEBSTORM\\WebStorm 2023.2.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\UNIVERSIDAD UNIR V2\DISEÑO Y TECNOLOGÍA WEB CLASE\DISEÑO Y TECNOLOGÍA WEB ACTIVIDAD 1\css" />
+      <recent name="D:\UNIVERSIDAD UNIR V2\DISEÑO Y TECNOLOGÍA WEB CLASE\DISEÑO Y TECNOLOGÍA WEB ACTIVIDAD 1\IMÁGENES" />
+      <recent name="D:\UNIVERSIDAD UNIR V2\DISEÑO Y TECNOLOGÍA WEB CLASE\DISEÑO Y TECNOLOGÍA WEB ACTIVIDAD 1\js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.Funciones Respuesta formulario.js">
+    <configuration name="ACTIVIDAD 1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DISEÑO Y TECNOLOGÍA WEB ACTIVIDAD 1/ACTIVIDAD 1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="SERVICIOS.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/DISEÑO Y TECNOLOGÍA WEB ACTIVIDAD 1/SERVICIOS.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Funciones Respuesta formulario.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/Funciones Respuesta formulario.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="funciones Reproductor de video.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/funciones Reproductor de video.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Funciones Respuesta formulario.js" />
+        <item itemvalue="Node.js.funciones Reproductor de video.js" />
+        <item itemvalue="JavaScript Debug.SERVICIOS.html" />
+        <item itemvalue="JavaScript Debug.ACTIVIDAD 1.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05e45d99-8a24-460c-a1b6-5a379d0f131c" name="Changes" comment="" />
+      <created>1700450566918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700450566918</updated>
+      <workItem from="1700450567919" duration="4614000" />
+      <workItem from="1700455587564" duration="1329000" />
+      <workItem from="1700525144628" duration="598000" />
+      <workItem from="1700616251939" duration="5769000" />
+      <workItem from="1700715608125" duration="3711000" />
+      <workItem from="1700786707987" duration="12914000" />
+      <workItem from="1700887366483" duration="8898000" />
+      <workItem from="1700896398237" duration="108000" />
+      <workItem from="1700931432442" duration="13700000" />
+      <workItem from="1701655487120" duration="227000" />
+      <workItem from="1701655837022" duration="132000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
